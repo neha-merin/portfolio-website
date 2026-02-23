@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: #f1dede;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    background: rgb(208, 133, 133);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
